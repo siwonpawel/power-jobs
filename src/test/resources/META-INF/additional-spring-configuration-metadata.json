@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "powerjobs.threadPrefix",
+      "type": "java.lang.String",
+      "description": "Prefix for worker thread names."
+    },
+    {
+      "name": "powerjobs.threadCount",
+      "type": "java.lang.Integer",
+      "description": "Number of threads to run jobs in parallel."
+    }
+  ] }

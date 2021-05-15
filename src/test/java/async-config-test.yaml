@@ -1,0 +1,3 @@
+powerjobs:
+  minThreadCount: 1
+  threadPrefix: powerjob_worker_
