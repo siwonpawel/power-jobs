@@ -69,6 +69,7 @@ Great things I did:
 Things I would to do if I had more time:
 - code refactoring (in my opinion the code in package domain is mixed too much with logic and I should think about better organization of async package)
 - write more tests, the coverage is low
+- keep good history of building the application (commit often)
 
 ## Desclimer
 
