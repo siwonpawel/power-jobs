@@ -18,4 +18,11 @@ spring:
   config:
     activate:
       on-profile: development
-
+---
+spring:
+  config:
+    activate:
+      on-profile: docker
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    platform: postgres
